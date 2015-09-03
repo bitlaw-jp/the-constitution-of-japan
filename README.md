@@ -1,1 +1,1 @@
-# the-constitution-of-japan
+# 日本国憲法 in Prolog
