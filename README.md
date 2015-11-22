@@ -1,12 +1,11 @@
-# 日本国憲法 in Prolog
+日本国憲法 in Prolog
 ====
-
-# Requirement
+## Requirement
 [AZ-Prolog](http://www.az-prolog.com)
 
 ## Usage
 ``` sh
-% ファイルの読み込み
+% ファイル読み込み
 | ?-['rules.pl'].
 | ?-['predicate.pl'].
 
