@@ -101,3 +101,6 @@ must_be(Name, X, N):- rule(N, Name, L), member(must_be(X), L).
 
 % 33.（対象）Xについて
 % about().
+
+% 34.Xの後で
+% after().
