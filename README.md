@@ -1,5 +1,6 @@
-日本国憲法 in Prolog
+憲法(日本国).
 ====
+日本国憲法をPrologの形式に書き換えています。
 ## Requirement
 [AZ-Prolog](http://www.az-prolog.com)
 
